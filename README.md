@@ -1,0 +1,2 @@
+# MojePrvni
+Frantovo pokusný repozitář
